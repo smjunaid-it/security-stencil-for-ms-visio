@@ -1,0 +1,1 @@
+# security-stencil-for-ms-visio
